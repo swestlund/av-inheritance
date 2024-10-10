@@ -1,1 +1,4 @@
 Här är lite kul text om inheritance
+
+
+Cow -> Animal -> Entity
